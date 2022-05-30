@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="server_port">server_port</string>
+    <string name="server_connect">server_connect</string>
+    <string name="currency_type">currency_type</string>
+    <string name="send_button">send_button</string>
 </resources>
